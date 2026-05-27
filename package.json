@@ -1,0 +1,13 @@
+{
+  "name": "chronicle",
+  "private": true,
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "dev": "concurrently \"npm run dev -w packages/api\" \"npm run dev -w packages/dashboard\"",
+    "build": "npm run build -w packages/api && npm run build -w packages/dashboard",
+    "lint": "npm run lint --workspaces"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}

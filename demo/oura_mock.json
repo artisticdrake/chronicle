@@ -1,0 +1,23 @@
+{
+  "baseline_30day": {
+    "hrv_rmssd": 28.4,
+    "resting_hr": 62,
+    "readiness_score": 72,
+    "temperature_deviation": 0.1
+  },
+  "last_7_days": [
+    { "date": "2026-05-21", "hrv_rmssd": 27.1, "resting_hr": 63, "readiness_score": 70, "temperature_deviation": 0.2 },
+    { "date": "2026-05-22", "hrv_rmssd": 26.0, "resting_hr": 65, "readiness_score": 67, "temperature_deviation": 0.3 },
+    { "date": "2026-05-23", "hrv_rmssd": 24.5, "resting_hr": 68, "readiness_score": 63, "temperature_deviation": 0.4 },
+    { "date": "2026-05-24", "hrv_rmssd": 22.8, "resting_hr": 70, "readiness_score": 58, "temperature_deviation": 0.5 },
+    { "date": "2026-05-25", "hrv_rmssd": 21.2, "resting_hr": 72, "readiness_score": 52, "temperature_deviation": 0.6 },
+    { "date": "2026-05-26", "hrv_rmssd": 19.8, "resting_hr": 74, "readiness_score": 47, "temperature_deviation": 0.7 },
+    { "date": "2026-05-27", "hrv_rmssd": 18.3, "resting_hr": 75, "readiness_score": 43, "temperature_deviation": 0.8 }
+  ],
+  "anomaly_detected": true,
+  "anomalous_signals": ["hrv_rmssd", "resting_hr", "readiness_score", "temperature_deviation"],
+  "hrv_delta_percent": -35.6,
+  "hr_delta_bpm": 13,
+  "readiness_delta_percent": -40.3,
+  "temp_deviation": 0.8
+}

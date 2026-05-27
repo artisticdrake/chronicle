@@ -1,0 +1,15 @@
+{
+  "S1": "I've been feeling pretty tired honestly, more than usual",
+  "S2": true,
+  "S2a_at_rest": false,
+  "S3": true,
+  "S4": true,
+  "S4a_constant": false,
+  "S5": "noticeably worse",
+  "S6": true,
+  "O3_missed_meds": true,
+  "O4_weight_gain": true,
+  "O4_pounds": 3.5,
+  "_expected_score": 165,
+  "_expected_alert_level": "urgent"
+}

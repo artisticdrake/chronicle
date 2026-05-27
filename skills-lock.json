@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "skills": {
+    "app-build-planner": {
+      "source": "StanfordSpezi/SpeziVibe",
+      "sourceType": "github",
+      "skillPath": "skills/app-build-planner/SKILL.md",
+      "computedHash": "34d086f9f1bb42c37e2642e38fe387612c1f08294f2fa44c59e33491e8f461e7"
+    },
+    "biodesign-needs-finding": {
+      "source": "StanfordSpezi/SpeziVibe",
+      "sourceType": "github",
+      "skillPath": "skills/biodesign-needs-finding/SKILL.md",
+      "computedHash": "81680cea7252ce6a5f0e8b06a76662feef9829d1554f49b38c054a56ec0f06d2"
+    },
+    "build-an-app": {
+      "source": "StanfordSpezi/SpeziVibe",
+      "sourceType": "github",
+      "skillPath": "skills/build-an-app/SKILL.md",
+      "computedHash": "fef653c7b3a3bea324e5b935443d66ba51cfe8c0f0014da3b235b5762363d8e4"
+    },
+    "digital-health-compliance-planning": {
+      "source": "StanfordSpezi/SpeziVibe",
+      "sourceType": "github",
+      "skillPath": "skills/digital-health-compliance-planning/SKILL.md",
+      "computedHash": "8aee00e86d487a2670ceca52bea84ee4e477868567a15f08ecd1bd4c472ec4f8"
+    },
+    "digital-health-study-planning": {
+      "source": "StanfordSpezi/SpeziVibe",
+      "sourceType": "github",
+      "skillPath": "skills/digital-health-study-planning/SKILL.md",
+      "computedHash": "73e61c40662b676fdd7a31c96470532213760bb58b579561fc00fa9a94ae5b14"
+    },
+    "digital-health-ux-planning": {
+      "source": "StanfordSpezi/SpeziVibe",
+      "sourceType": "github",
+      "skillPath": "skills/digital-health-ux-planning/SKILL.md",
+      "computedHash": "f94bbe33b257054832439a1d7c7f2d139a7637de8147bcb789a0c9b75d19ac29"
+    },
+    "fhir-data-model-design": {
+      "source": "StanfordSpezi/SpeziVibe",
+      "sourceType": "github",
+      "skillPath": "skills/fhir-data-model-design/SKILL.md",
+      "computedHash": "bfbda392a16f4983e52be56876bd21d5fab05e99ce251ae4db2dbf2dbe8d948a"
+    },
+    "health-data-model-planning": {
+      "source": "StanfordSpezi/SpeziVibe",
+      "sourceType": "github",
+      "skillPath": "skills/health-data-model-planning/SKILL.md",
+      "computedHash": "73587e78bb0793051b4dd6cd2b070403be3fae6911026f6a431a82a707f7e7d2"
+    },
+    "keep-a-changelog-generator": {
+      "source": "StanfordSpezi/SpeziVibe",
+      "sourceType": "github",
+      "skillPath": "skills/keep-a-changelog-generator/SKILL.md",
+      "computedHash": "e8a85001094bb08f196daefacdb407cd29a72eddb02cb4746e20aa3d08e955fb"
+    },
+    "project-wiki": {
+      "source": "StanfordSpezi/SpeziVibe",
+      "sourceType": "github",
+      "skillPath": "skills/project-wiki/SKILL.md",
+      "computedHash": "f067af1aa4655348b91126ffef79166e195170dd8d287fb20f360f15babcfb29"
+    },
+    "release-notes-generator": {
+      "source": "StanfordSpezi/SpeziVibe",
+      "sourceType": "github",
+      "skillPath": "skills/release-notes-generator/SKILL.md",
+      "computedHash": "76fb9eda68d3f9a08fac0a2c14a4ce415916255b99fab462996731fd777f6067"
+    },
+    "spezi-platform-selection": {
+      "source": "StanfordSpezi/SpeziVibe",
+      "sourceType": "github",
+      "skillPath": "skills/spezi-platform-selection/SKILL.md",
+      "computedHash": "3b646e335503d8469be7afbff9578fadd0f051e4e26601de47f786d0bbf0bb69"
+    }
+  }
+}

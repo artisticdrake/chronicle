@@ -1,0 +1,14 @@
+{
+  "id": "demo-patient-001",
+  "firstName": "James",
+  "lastName": "Reilly",
+  "age": 67,
+  "phone": "+16172060361",
+  "diagnosis": "Congestive Heart Failure",
+  "ejectionFraction": 32,
+  "nyhaClass": "III",
+  "medications": ["Furosemide 40mg", "Carvedilol 6.25mg", "Lisinopril 10mg", "Spironolactone 25mg"],
+  "lastDecompensationDate": "2026-02-14",
+  "consecutiveRejections": 0,
+  "suppressionActive": false
+}
